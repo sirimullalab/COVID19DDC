@@ -6,8 +6,8 @@ The COVID-19 Drug Discovery Consortium (DDC) is multi-institutional and a multi-
 # Super Computing Resources
 
 ## Texas Advanced Computing Center(TACC) Clusters
-* [Frontera](frontera.tacc.utexas.edu)
-* Stampede2
+* [Frontera](https://www.tacc.utexas.edu/systems/frontera)
+* Stampede2 
 * Lomestar5
 
 ## Distributed Computing
