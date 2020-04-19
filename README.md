@@ -2,6 +2,17 @@
 Repository for COVID19 drug discovery research
 The COVID-19 Drug Discovery Consortium (DDC) is multi-institutional and a multi-disciplinary group of researchers, scholars, and professionals. The consortium is on a mission to quickly bring drug molecules to the market for the treatment of COVID19.
 
+
+# Super Computing Resources
+
+## Texas Advanced Computing Center(TACC) Clusters
+* Frontera
+* Stampede2
+* Lomestar5
+
+## Distributed Computing
+* BOINC@TACC
+
 # Team
 ## Founders
 * Suman Sirimulla, University of Texas at El Paso 
