@@ -1,6 +1,6 @@
 # COVID19 Drug Discovery Consortium
 
-The COVID-19 Drug Discovery Consortium (DDC) is multi-institutional and a multi-disciplinary group of researchers, scholars, and professionals. The consortium is on a mission to quickly bring drug molecules to market for the treatment of COVID19.
+The COVID-19 Drug Discovery Consortium (DDC) is an international team of leading computational scientists, medicinal chemists, biochemists, and virologists working to rapidly identify drug-like molecules that inhibit SARS-CoV-19 replication. We are leveraging on some of the world’s most advanced supercomputer resources to screen billions of small molecules against all the major non-structural proteins of SARS-CoV-19. We will test the tightest binding drug-like molecules for antiviral activity using novel SARS-CoV-19 replication assays performed in high containment facilities. Following these assays, the most potent antiviral compounds will transition to IND-enabling GMP manufacturing and GLP safety/toxicity studies in preparation for First-in-Human clinical studies.
 
 
 # Super Computing Resources
