@@ -2,8 +2,8 @@
 Repository for COVID19 drug discovery research
 The COVID-19 Drug Discovery Consortium (DDC) is multi-institutional and a multi-disciplinary group of researchers, scholars, and professionals. The consortium is on a mission to quickly bring drug molecules to the market for the treatment of COVID19.
 
-#Team
-##Founders
+# Team
+## Founders
 * Suman Sirimulla, University of Texas at El Paso 
 * Stanley Watowich, University of Texas Medical Branch
 * Francisco J. Enguita, University of Lisbon
@@ -12,7 +12,7 @@ The COVID-19 Drug Discovery Consortium (DDC) is multi-institutional and a multi-
 * Joe Allen, Texas Advanced Computing Center, UT Austin 
 * Ritu Arora, Texas Advanced Computing Center, UT Austin
 
-##Members
+## Members
 * Josh T Beckham, University of Texas at Austin
 * Rodrigo Ochoa, University of Antioquia Colombia
 * Yun Lyna Luo, Western University of Health Sciences
@@ -23,7 +23,7 @@ The COVID-19 Drug Discovery Consortium (DDC) is multi-institutional and a multi-
 * Filip Fratev, Micar21
 * Adrian Varela-Alvarez, University of Texas at El Paso
 
-##Partners
+## Partners
 * Enamine
 * Texas A&M Institute for Biosciences & Technology
 * Boston University’s National Emerging Infectious Diseases Laboratories(NEIDL)
