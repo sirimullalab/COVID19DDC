@@ -10,7 +10,7 @@ The COVID-19 Drug Discovery Consortium (DDC) is multi-institutional and a multi-
 * [Stampede2](https://www.tacc.utexas.edu/systems/stampede) 
 * [Lonestar5](www.tacc.utexas.edu/systems/lonestar)
 
-## Distributed Computing
+## Volunteer Computing
 * [BOINC@TACC](https://boinc.tacc.utexas.edu/)
 
 # Team
