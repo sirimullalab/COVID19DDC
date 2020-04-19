@@ -35,5 +35,5 @@ The COVID-19 Drug Discovery Consortium (DDC) is an international team of leading
 
 ## Partners
 * Enamine
-* Texas A&M Institute for Biosciences & Technology
+* Texas A&M Institute for Biosciences & Technology (Houston, Tx)
 * Boston University’s National Emerging Infectious Diseases Laboratories(NEIDL)
