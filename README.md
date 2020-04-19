@@ -25,15 +25,15 @@ The COVID-19 Drug Discovery Consortium (DDC) is an international team of leading
 
 ## Members
 * Amit Gupta, Texas Medical Center Innovation Institute, Houston
-* Rodrigo Ochoa, University of Antioquia Colombia
-* Yun Lyna Luo, Western University of Health Sciences
+* Adrian Varela-Alvarez, University of Texas at El Paso
 * Jin Wang, Baylor College of Medicine
 * JoAnne Babula, Ridgeline Therapeutics
-* Lisheng Deng, Baylor College of Medicine
 * Josh T Beckham, University of Texas at Austin
-* Adrian Varela-Alvarez, University of Texas at El Paso
+* Lisheng Deng, Baylor College of Medicine
 * Rajan Chaudhari, MD Anderson Cancer Center
+* Rodrigo Ochoa, University of Antioquia Colombia
 * Sita Sirisha Madugula, COVID19 Drug Discovery Consortium
+* Yun Lyna Luo, Western University of Health Sciences
 
 ## Partners
 * Enamine
