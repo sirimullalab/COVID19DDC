@@ -33,7 +33,7 @@ The COVID-19 Drug Discovery Consortium (DDC) is an international team of leading
 * Josh T Beckham, University of Texas at Austin
 * Adrian Varela-Alvarez, University of Texas at El Paso
 * Rajan Chaudhari, MD Anderson Cancer Center
-* Sitha Sirisha Madugula, COVID19 Drug Discovery Consortium
+* Sita Sirisha Madugula, COVID19 Drug Discovery Consortium
 
 ## Partners
 * Enamine
