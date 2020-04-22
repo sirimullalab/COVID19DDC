@@ -1,0 +1,23 @@
+REMARK BOX at -6 -55 17   Size 30 x 24 x 24
+LINK        UR    UR X   1                UR    UR X   2     1555   1555 24.00  
+LINK        UR    UR X   1                UR    UR X   3     1555   1555 24.00  
+LINK        UR    UR X   1                UR    UR X   5     1555   1555 24.00  
+LINK        UR    UR X   6                UR    UR X   2     1555   1555 24.00  
+LINK        UR    UR X   6                UR    UR X   5     1555   1555 24.00  
+LINK        UR    UR X   6                UR    UR X   8     1555   1555 24.00  
+LINK        UR    UR X   4                UR    UR X   2     1555   1555 24.00  
+LINK        UR    UR X   4                UR    UR X   3     1555   1555 24.00  
+LINK        UR    UR X   4                UR    UR X   8     1555   1555 24.00  
+LINK        UR    UR X   7                UR    UR X   3     1555   1555 24.00  
+LINK        UR    UR X   7                UR    UR X   5     1555   1555 24.00  
+LINK        UR    UR X   7                UR    UR X   8     1555   1555 24.00  
+CRYST1   30.000   24.000   24.000  90.00  90.00  90.00 P 1
+HETATM    0 UR    UR X   0      -6.000 -55.000  17.000  1.00 15.00          UR
+HETATM    1 UR    UR X   1     -21.000 -67.000   5.000  1.00 20.00          UR
+HETATM    2 UR    UR X   2     -21.000 -43.000   5.000  1.00 20.00          UR
+HETATM    3 UR    UR X   3     -21.000 -67.000  29.000  1.00 20.00          UR
+HETATM    4 UR    UR X   4     -21.000 -43.000  29.000  1.00 20.00          UR
+HETATM    5 UR    UR X   5       9.000 -67.000   5.000  1.00 20.00          UR
+HETATM    6 UR    UR X   6       9.000 -43.000   5.000  1.00 20.00          UR
+HETATM    7 UR    UR X   7       9.000 -67.000  29.000  1.00 20.00          UR
+HETATM    8 UR    UR X   8       9.000 -43.000  29.000  1.00 20.00          UR
