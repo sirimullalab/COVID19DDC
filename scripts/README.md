@@ -11,8 +11,8 @@ size_x = 24
 size_y = 24
 size_z = 24
 ```
-* Run `for dir in $(ls -d /scratch/02875/docking/ligands/Enamine-HTSC/*/); do echo "./dock.sh docked_proteins docked_proteins/config.txt ${dir}"; done > parralel_dock_commands.sh` to create a launcher job file that would go each of the subdirectories of the ligands collection and create a command for writing docking commands
-* Run ` parralel_dock_commands.sh` using launcher. `dock_*` files will be created inside of `docked_proteins`
+* Run `for dir in $(ls -d /scratch/02875/docking/ligands/Enamine-HTSC/*/); do echo "./dock.sh docked_proteins docked_proteins/config.txt ${dir}"; done > parallel_dock_commands.sh` to create a launcher job file that would go each of the subdirectories of the ligands collection and create a command for writing docking commands
+* Run ` parallel_dock_commands.sh` using launcher. `dock_*` files will be created inside of `docked_proteins`
 * Merge those files using `cat docked_proteins/dock_* > docked_proteins/dock.sh`. Once done, `dock_*` files can be deleted
 * Now submit a launcher job using the file `docked_proteins/dock.sh`
 
