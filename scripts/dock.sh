@@ -6,9 +6,9 @@ if [ ! $# -eq 3 ]; then
 fi
 
 WORKDIR=$PWD
-OUTPUTDIR=$1
+OUTPUTDIR=$(realpath $1)
 CONFIG=$(realpath $2)
-LIGANDS=$3
+LIGANDS=$(realpath $3)
 DOCKDIR=$OUTPUTDIR/docked; mkdir -p $DOCKDIR
 RESULTS=$OUTPUTDIR/results; mkdir -p $RESULTS
 VINA="/scratch/03864/suman1/COVID19/qvina/bin/qvina02"
